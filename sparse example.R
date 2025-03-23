@@ -1,7 +1,7 @@
 
 ##### R CODE FOR
-# Keeping individual records confidential 
-# using a sparse two-stage Bayesian meta-analysis for individualized treatments
+
+# Sparse two-stage Bayesian meta-analysis for individualized treatments
 #
 
 
